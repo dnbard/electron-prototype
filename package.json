@@ -11,6 +11,19 @@
   "license": "MIT",
   "devDependencies": {
     "electron-packager": "^5.1.0",
-    "electron-prebuilt": "^0.33.3"
+    "electron-prebuilt": "^0.33.3",
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "gulp-atom": "^0.1.0",
+    "gulp-install": "^0.4.0",
+    "gulp-less": "^3.0.3",
+    "reactify": "^1.1.1",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.1.2",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "react": "^0.14.0-beta3",
+    "react-dom": "^0.14.0-rc1"
   }
 }
